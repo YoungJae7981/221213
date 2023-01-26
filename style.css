@@ -1,0 +1,102 @@
+a {
+  text-decoration: none;
+}
+
+.mail-box {
+  /* border: 2px solid red; */
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.green {
+  color: green;
+}
+
+.mail-box img {
+  width: 200px;
+}
+
+.tel-box {
+  width: 300px;
+  margin: 0 auto;
+  text-align: center;
+  border: 1px solid #777;
+  border-radius: 10px;
+}
+
+.red {
+  color: red;
+}
+
+.margin {
+  margin-top: 50px;
+}
+
+.blue {
+  color: blue;
+}
+
+.img-down {
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+  border: 2px solid #777;
+  border-radius: 15px;
+  padding: 30px;
+  box-shadow: 5px 5px 5px #000;
+}
+
+.img-down img {
+  width: 250px;
+}
+
+.back {
+  color: aquamarine;
+  background-color: tomato;
+  border: 2px solid blue;
+  border-radius: 5px;
+}
+
+.circle {
+  width: 300px;
+  margin:  0 auto;
+  text-align: center;
+  border: 2px dotted #888;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px #000;
+  box-shadow: 5px 5px 5px #000;
+}
+
+.bgc1 {
+  background-color: beige;
+}
+
+
+.bgc2 {
+  margin-top: 30px;
+  background-color: cornflowerblue;
+}
+
+.circle img {
+  width: 200px;
+}
+
+.green {
+  color: #fff;
+  background-color: green;
+  border-radius: 5px;
+  border: 2px solid orangered;
+}
+
+
+
+
+
+
+
+
+
+
+
